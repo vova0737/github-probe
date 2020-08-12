@@ -1,2 +1,2 @@
 # github-probe
-Probe repository
+goit-markup-hw-01 repository
